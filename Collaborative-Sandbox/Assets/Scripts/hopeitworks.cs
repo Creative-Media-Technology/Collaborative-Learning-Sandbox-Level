@@ -13,6 +13,6 @@ public class hopeitworks : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+        //This is amazing, keep up the good work
     }
 }
