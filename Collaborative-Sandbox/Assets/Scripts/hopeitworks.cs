@@ -17,4 +17,6 @@ public class hopeitworks : MonoBehaviour
     }
 
     //A custom function could be added here
+
+    //I believe so
 }
