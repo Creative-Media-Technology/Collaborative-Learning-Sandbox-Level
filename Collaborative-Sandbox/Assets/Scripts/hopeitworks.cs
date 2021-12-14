@@ -15,4 +15,6 @@ public class hopeitworks : MonoBehaviour
     {
         //This is amazing, keep up the good work
     }
+
+    //A custom function could be added here
 }
